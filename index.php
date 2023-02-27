@@ -18,5 +18,8 @@
     </div> 
 </header>
         <h1><?php echo 'Hello, World!'; ?></h1>
+<footer>
+    <h4>Задание для самостоятельной работы</h4>
+</footer>        
 </body>
 </html>
